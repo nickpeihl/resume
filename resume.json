@@ -1,0 +1,172 @@
+{
+    "awards": [],
+    "basics": {
+        "name": "Nick Peihl",
+        "label": "Geospatial and Web Solutions Engineer",
+        "email": "nickpeihl@gmail.com",
+        "phone": "(760) 883-0534",
+        "website": "http://npeihl.com",
+        "summary": "Rarely content with out-of-the-box products, Nick has been building custom solutions to geospatial problems since 2005. Early in his career he saved his organization thousands of dollars in license fees by migrating an enterprise geodatabase from SQL Server to PostgreSQL. Irritated by performing reptitive tasks, Nick quickly learned and started writing Python scripts to increase his productivity, saving hundreds of man hours. By 2009, Nick was creating secure web applications using Django to allow consultants to directly access and edit databases. Today, Nick focuses on creating performant and accessible web applications using modular JavaScript and Node.js. When not working or obsessively starring inspiring projects on GitHub, Nick enjoys dancing ballet and walking his two rescued greyhounds.",
+        "location": {
+            "address": "76 Vineyard Ln",
+            "postalCode": "98250",
+            "city": "Friday Harbor",
+            "countryCode": "US",
+            "region": "Washington"
+        },
+        "profiles": [
+            {
+                "url": "http://github.com/nickpeihl",
+                "username": "nickpeihl",
+                "network": "GitHub"
+            },
+            {
+                "url": "https://twitter.com/nickpeihl",
+                "username": "nickpeihl",
+                "network": "Twitter"
+            },
+            {
+                "url": "https://www.linkedin.com/in/nickpeihl",
+                "username": "nickpeihl",
+                "network": "LinkedIn"
+            }
+        ]
+    },
+    "education": [
+        {
+            "studyType": "Bachelor of Science",
+            "area": "Management Information Systems / Computer Science",
+            "institution": "North Dakota State University"
+        }
+    ],
+    "interests": [
+        {
+            "keywords": [
+                "Hiking",
+                "Trail running",
+                "Camping",
+                "Kayaking"
+            ],
+            "name": "Outdoors"
+        },
+        {
+            "keywords": [
+                "D3.js",
+                "Edward Tufte"
+            ],
+            "name": "Data Visualization"
+        },
+        {
+            "keywords": [
+                "Code for America",
+                "Open Data"
+            ],
+            "name": "Civic Hacking"
+        },
+        {
+            "keywords": [
+                "p2p",
+                "offline first",
+                "service workers"
+            ],
+            "name": "Offline first web development"
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Modular JavaScript",
+                "Browserify",
+                "Stateful web apps",
+                "Node.js",
+                "Leaflet",
+                "Mapbox",
+                "Git / GitHub",
+                "Continuous Integration",
+                "P2P",
+                "Offline First"
+            ],
+            "level": "Master",
+            "name": "Frontend Web Development"
+        },
+        {
+            "keywords": [
+                "ArcGIS Desktop",
+                "ArcGIS Server",
+                "Spatial analysis",
+                "GDAL/OGR",
+                "OpenStreetMap",
+                "Enterprise geodatabases"
+            ],
+            "level": "Master",
+            "name": "GIS"
+        },
+        {
+            "keywords": [
+                "Microsoft SQL Server",
+                "PostgreSQL / PostGIS",
+                "ArcSDE"
+            ],
+            "level": "Master",
+            "name": "Database"
+        },
+        {
+            "keywords": [
+                "ArcPy",
+                "Django",
+                "Jupyter",
+                "Matplotlib",
+                "Pandas",
+                "Geopandas"
+            ],
+            "level": "Intermediate",
+            "name": "Python Programming"
+        }
+    ],
+    "volunteer": [
+        {
+            "highlights": [
+                "Core contributor to the DropChop open source project which proves you don't need a server to do geospatial analysis",
+                "Presentation on open source options for offline custom maps for mobile devices"
+            ],
+            "summary": "CUGOS provides support and ideas for users of open source geospatial software through monthly meetings, annual conferences and project sidecars.",
+            "startDate": "2015-10-15",
+            "website": "http://cugos.org",
+            "position": "Contributor/Presenter",
+            "organization": "Cascadia Users of Geospatial Open Source (CUGOS)"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Building fast and responsive geospatial web applications for residents with offline-first strategies using service workers, IndexedDB, and P2P technologies",
+                "Created Footprint Review - a crowdsourcing web application for conflating GIS data",
+                "Re-negotiated aerial photography contract to provide higher resolution imagery at no additional cost",
+                "Supervision of all GIS department projects and staff",
+                "Assigned role of backup IT Manager for supervision of staff and critical decision-making"
+            ],
+            "summary": "San Juan County is an archipelago of small islands off the coast of Washington state. The San Juan islands are a very popular tourist destination but otherwise sparsely populated.",
+            "startDate": "2013-06-10",
+            "website": "http://sanjuanco.com",
+            "position": "GIS Coordinator",
+            "company": "San Juan County"
+        },
+        {
+            "highlights": [
+                "Designed and maintained an enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS with links between geographic data and a Laserfiche document management system",
+                "Conducted spatial analyses to determine where and how proposed infrastructure or developments affect protected species habitats and natural communities",
+                "Designed annual reports showing habitat conservation progress using spatial SQL queries",
+                "Used Django framework to develop data entry web applications for consultants as an alternative to emailing Excel spreadsheets back and forth"
+            ],
+            "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal transportation and community planning agency with nine member cities and four Indian reservations. CVAG was instrumental in creating and maintaining the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect 27 species habitats and 27 natural communities.",
+            "endDate": "2013-05-27",
+            "startDate": "2005-08-27",
+            "website": "http://cvag.org",
+            "position": "GIS Analyst",
+            "company": "Coachella Valley Association of Governments"
+        }
+    ]
+}
