@@ -1,0 +1,32 @@
+{
+  "name": "@nickpeihl/resume",
+  "version": "0.1.0",
+  "description": "Resume for Nick Peihl",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx resume test",
+    "start": "npx resume serve"
+  },
+  "engines": {
+    "node": ">=8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpeihl/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "nickpeihl",
+    "job",
+    "career"
+  ],
+  "author": "Nick Peihl <nickpeihl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickpeihl/resume/issues"
+  },
+  "homepage": "https://github.com/nickpeihl/resume#readme",
+  "dependencies": {
+    "resume-cli": "^0.4.19"
+  }
+}

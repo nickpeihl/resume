@@ -6,7 +6,7 @@
         "email": "nickpeihl@gmail.com",
         "phone": "(760) 883-0534",
         "website": "http://npeihl.com",
-        "summary": "Rarely content with out-of-the-box products, Nick has been building custom solutions to geospatial problems since 2005. Early in his career he saved his organization thousands of dollars in license fees by migrating an enterprise geodatabase from SQL Server to PostgreSQL. Irritated by performing reptitive tasks, Nick quickly learned and started writing Python scripts to increase his productivity, saving hundreds of man hours. By 2009, Nick was creating secure web applications using Django to allow consultants to directly access and edit databases. Today, Nick focuses on creating performant and accessible web applications using modular JavaScript and Node.js. When not working or obsessively starring inspiring projects on GitHub, Nick enjoys dancing ballet and walking his two rescued greyhounds.",
+        "summary": "Geospatial Data Analyst and Web Developer with 10+ years experience organizing and administering spatial databases and six years building geospatial web applications using Leaflet, Mapbox, and ArcGIS JavaScript frameworks.",
         "location": {
             "address": "76 Vineyard Ln",
             "postalCode": "98250",
@@ -36,40 +36,9 @@
         {
             "studyType": "Bachelor of Science",
             "area": "Management Information Systems / Computer Science",
-            "institution": "North Dakota State University"
-        }
-    ],
-    "interests": [
-        {
-            "keywords": [
-                "Hiking",
-                "Trail running",
-                "Camping",
-                "Kayaking"
-            ],
-            "name": "Outdoors"
-        },
-        {
-            "keywords": [
-                "D3.js",
-                "Edward Tufte"
-            ],
-            "name": "Data Visualization"
-        },
-        {
-            "keywords": [
-                "Code for America",
-                "Open Data"
-            ],
-            "name": "Civic Hacking"
-        },
-        {
-            "keywords": [
-                "p2p",
-                "offline first",
-                "service workers"
-            ],
-            "name": "Offline first web development"
+            "institution": "North Dakota State University",
+            "startDate": "1999-09-04",
+            "endDate": "2004-05-14"
         }
     ],
     "publications": [],
@@ -78,29 +47,20 @@
             "keywords": [
                 "HTML",
                 "CSS",
-                "Modular JavaScript",
-                "Browserify",
-                "Stateful web apps",
+                "JavaScript",
                 "Node.js",
                 "Leaflet",
                 "Mapbox",
-                "Git / GitHub",
-                "Continuous Integration",
-                "P2P",
-                "Offline First"
+                "Progressive Web Apps"
             ],
             "level": "Master",
-            "name": "Frontend Web Development"
+            "name": "Web Development"
         },
         {
             "keywords": [
-                "ArcGIS Desktop",
-                "ArcGIS Server",
+                "ArcGIS Desktop / Server",
                 "Spatial analysis",
-                "GDAL/OGR",
-                "OpenStreetMap",
-                "Enterprise geodatabases"
-            ],
+                "GDAL / OGR"            ],
             "level": "Master",
             "name": "GIS"
         },
@@ -118,18 +78,17 @@
                 "ArcPy",
                 "Django",
                 "Jupyter",
-                "Matplotlib",
                 "Pandas",
                 "Geopandas"
             ],
             "level": "Intermediate",
-            "name": "Python Programming"
+            "name": "Python"
         }
     ],
     "volunteer": [
         {
             "highlights": [
-                "Core contributor to the DropChop open source project which proves you don't need a server to do geospatial analysis",
+                "Core contributor to the Dropchop open source project (http://dropchop.io)",
                 "Presentation on open source options for offline custom maps for mobile devices"
             ],
             "summary": "CUGOS provides support and ideas for users of open source geospatial software through monthly meetings, annual conferences and project sidecars.",
@@ -142,7 +101,7 @@
     "work": [
         {
             "highlights": [
-                "Building fast and responsive geospatial web applications for residents with offline-first strategies using service workers, IndexedDB, and P2P technologies",
+                "Build fast and responsive geospatial web applications using progressive web app technologies",
                 "Created Footprint Review - a crowdsourcing web application for conflating GIS data",
                 "Re-negotiated aerial photography contract to provide higher resolution imagery at no additional cost",
                 "Supervision of all GIS department projects and staff",
@@ -156,12 +115,12 @@
         },
         {
             "highlights": [
-                "Designed and maintained an enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS with links between geographic data and a Laserfiche document management system",
-                "Conducted spatial analyses to determine where and how proposed infrastructure or developments affect protected species habitats and natural communities",
+                "Designed and maintained enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS to link geospatial data with a document management system",
+                "Conducted spatial analyses to determine where and how proposed developments affect protected species habitats and natural communities",
                 "Designed annual reports showing habitat conservation progress using spatial SQL queries",
-                "Used Django framework to develop data entry web applications for consultants as an alternative to emailing Excel spreadsheets back and forth"
+                "Used Django framework to develop a data entry web application for consultantsß"
             ],
-            "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal transportation and community planning agency with nine member cities and four Indian reservations. CVAG was instrumental in creating and maintaining the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect 27 species habitats and 27 natural communities.",
+            "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal planning agency which administers the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect species habitats and ecologies.",
             "endDate": "2013-05-27",
             "startDate": "2005-08-27",
             "website": "http://cvag.org",
