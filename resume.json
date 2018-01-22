@@ -102,10 +102,10 @@
         {
             "highlights": [
                 "Build fast and responsive geospatial web applications using progressive web app technologies",
-                "Created Footprint Review - a crowdsourcing web application for conflating GIS data",
-                "Re-negotiated aerial photography contract to provide higher resolution imagery at no additional cost",
                 "Supervision of all GIS department projects and staff",
-                "Assigned role of backup IT Manager for supervision of staff and critical decision-making"
+                "Backup IT Manager for supervision of staff and critical decision-making",
+                "Created Footprint Review - a crowdsourcing web application for conflating GIS data",
+                "Re-negotiated aerial photography contract to provide higher resolution imagery at no additional cost"
             ],
             "summary": "San Juan County is an archipelago of small islands off the coast of Washington state. The San Juan islands are a very popular tourist destination but otherwise sparsely populated.",
             "startDate": "2013-06-10",
@@ -118,7 +118,7 @@
                 "Designed and maintained enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS to link geospatial data with a document management system",
                 "Conducted spatial analyses to determine where and how proposed developments affect protected species habitats and natural communities",
                 "Designed annual reports showing habitat conservation progress using spatial SQL queries",
-                "Used Django framework to develop a data entry web application for consultantsß"
+                "Used Django framework to develop a data entry web application for consultants"
             ],
             "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal planning agency which administers the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect species habitats and ecologies.",
             "endDate": "2013-05-27",

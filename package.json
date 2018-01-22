@@ -4,8 +4,8 @@
   "description": "Resume for Nick Peihl",
   "main": "index.js",
   "scripts": {
-    "test": "npx resume test",
-    "start": "npx resume serve"
+    "test": "npx -p resume-cli resume test",
+    "start": "npx -p resume-cli resume serve --port 9966"
   },
   "engines": {
     "node": ">=8.2.0"
