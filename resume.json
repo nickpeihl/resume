@@ -1,131 +1,114 @@
 {
-    "awards": [],
-    "basics": {
-        "name": "Nick Peihl",
-        "label": "Geospatial and Web Solutions Engineer",
-        "email": "nickpeihl@gmail.com",
-        "phone": "(760) 883-0534",
-        "website": "http://npeihl.com",
-        "summary": "Geospatial Data Analyst and Web Developer with 10+ years experience organizing and administering spatial databases and six years building geospatial web applications using Leaflet, Mapbox, and ArcGIS JavaScript frameworks.",
-        "location": {
-            "address": "76 Vineyard Ln",
-            "postalCode": "98250",
-            "city": "Friday Harbor",
-            "countryCode": "US",
-            "region": "Washington"
-        },
-        "profiles": [
-            {
-                "url": "http://github.com/nickpeihl",
-                "username": "nickpeihl",
-                "network": "GitHub"
-            },
-            {
-                "url": "https://twitter.com/nickpeihl",
-                "username": "nickpeihl",
-                "network": "Twitter"
-            },
-            {
-                "url": "https://www.linkedin.com/in/nickpeihl",
-                "username": "nickpeihl",
-                "network": "LinkedIn"
-            }
-        ]
+  "meta": { "theme": "macchiato" },
+  "basics": {
+    "name": "Nick Peihl",
+    "image": "",
+    "label": "Full stack software engineer",
+    "email": "nickpeihl@gmail.com",
+    "phone": "(760) 883-0534",
+    "website": "http://npeihl.com",
+    "summary": "I am a full stack engineer with 10+ years experience developing, implementing, and maintaining web applications on every layer including customer requirements, database schemas, DevOps, backend APIs, and frontend components. I work with stakeholders to guide projects from concept to completion.",
+    "location": {
+      "countryCode": "US",
+      "region": "Remote"
     },
-    "education": [
-        {
-            "studyType": "Bachelor of Science",
-            "area": "Management Information Systems / Computer Science",
-            "institution": "North Dakota State University",
-            "startDate": "1999-09-04",
-            "endDate": "2004-05-14"
-        }
-    ],
-    "publications": [],
-    "skills": [
-        {
-            "keywords": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Node.js",
-                "Leaflet",
-                "Mapbox",
-                "Progressive Web Apps"
-            ],
-            "level": "Master",
-            "name": "Web Development"
-        },
-        {
-            "keywords": [
-                "ArcGIS Desktop / Server",
-                "Spatial analysis",
-                "GDAL / OGR"            ],
-            "level": "Master",
-            "name": "GIS"
-        },
-        {
-            "keywords": [
-                "Microsoft SQL Server",
-                "PostgreSQL / PostGIS",
-                "ArcSDE"
-            ],
-            "level": "Master",
-            "name": "Database"
-        },
-        {
-            "keywords": [
-                "ArcPy",
-                "Django",
-                "Jupyter",
-                "Pandas",
-                "Geopandas"
-            ],
-            "level": "Intermediate",
-            "name": "Python"
-        }
-    ],
-    "volunteer": [
-        {
-            "highlights": [
-                "Core contributor to the Dropchop open source project (http://dropchop.io)",
-                "Presentation on open source options for offline custom maps for mobile devices"
-            ],
-            "summary": "CUGOS provides support and ideas for users of open source geospatial software through monthly meetings, annual conferences and project sidecars.",
-            "startDate": "2015-10-15",
-            "website": "http://cugos.org",
-            "position": "Contributor/Presenter",
-            "organization": "Cascadia Users of Geospatial Open Source (CUGOS)"
-        }
-    ],
-    "work": [
-        {
-            "highlights": [
-                "Build fast and responsive geospatial web applications using progressive web app technologies",
-                "Supervision of all GIS department projects and staff",
-                "Backup IT Manager for supervision of staff and critical decision-making",
-                "Created Footprint Review - a crowdsourcing web application for conflating GIS data",
-                "Re-negotiated aerial photography contract to provide higher resolution imagery at no additional cost"
-            ],
-            "summary": "San Juan County is an archipelago of small islands off the coast of Washington state. The San Juan islands are a very popular tourist destination but otherwise sparsely populated.",
-            "startDate": "2013-06-10",
-            "website": "http://sanjuanco.com",
-            "position": "GIS Coordinator",
-            "company": "San Juan County"
-        },
-        {
-            "highlights": [
-                "Designed and maintained enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS to link geospatial data with a document management system",
-                "Conducted spatial analyses to determine where and how proposed developments affect protected species habitats and natural communities",
-                "Designed annual reports showing habitat conservation progress using spatial SQL queries",
-                "Used Django framework to develop a data entry web application for consultants"
-            ],
-            "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal planning agency which administers the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect species habitats and ecologies.",
-            "endDate": "2013-05-27",
-            "startDate": "2005-08-27",
-            "website": "http://cvag.org",
-            "position": "GIS Analyst",
-            "company": "Coachella Valley Association of Governments"
-        }
+    "profiles": [
+      {
+        "url": "http://github.com/nickpeihl",
+        "username": "nickpeihl",
+        "network": "GitHub"
+      },
+      {
+        "url": "https://www.linkedin.com/in/nickpeihl",
+        "username": "nickpeihl",
+        "network": "LinkedIn"
+      }
     ]
+  },
+  "education": [
+    {
+      "studyType": "Bachelor of Science",
+      "area": "Management Information Systems / Computer Science",
+      "institution": "North Dakota State University",
+      "endDate": "2004"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "keywords": ["TypeScript", "Node.js", "React", "Redux", "RxJS"],
+      "name": "Web App Development"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Terraform",
+        "Helm",
+        "Kubernetes",
+        "Google Cloud Platform",
+        "Varnish"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "Elasticsearch",
+        "PostgreSQL",
+        "Microsoft SQL Server",
+        "ArcSDE"
+      ],
+      "name": "Database"
+    },
+    {
+      "keywords": ["ArcGIS Desktop / Server", "Spatial analysis", "GDAL / OGR"],
+      "name": "GIS"
+    },
+    {
+      "keywords": ["ArcPy", "Django", "Jupyter", "Pandas", "Geopandas"],
+      "name": "Python"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Design, deploy, scale, and maintain the Elastic Maps Service for customers using Bash, PostgreSQL, Varnish, Kubernetes, Docker, Terraform, and Helm.",
+        "Develop, test, and maintain features for the Maps and Dashboards plugins in Kibana using TypeScript, Node.js, Jest, React, Redux, and RxJS.",
+        "Led the production and release of Elastic Maps Server, a new standalone map service product, for enterprise customers by collaborating with Legal, Product Management, Release engineering, and Cloud engineering teams.",
+        "Refactored map service and map data generation saving at least $42,000 per annum."
+      ],
+      "summary": "Elastic is the company behind the Elastic Stack consisting of Elasticsearch, Kibana, Logstash, and Beats.",
+      "startDate": "2018-03-04",
+      "website": "https://elastic.co",
+      "position": "Principal Software Engineer",
+      "company": "Elastic"
+    },
+    {
+      "highlights": [
+        "Built fast and responsive geospatial web applications using progressive web app technologies.",
+        "Supervised all GIS department projects and staff.",
+        "Backup IT Manager for supervision of staff and critical decision-making.",
+        "Created Footprint Review - a crowdsourcing web application for conflating GIS data.",
+        "Re-negotiated an aerial photography contract to provide higher resolution imagery at no additional cost."
+      ],
+      "startDate": "2013-06-10",
+      "endDate": "2018-02-28",
+      "website": "https://sanjuanco.com",
+      "position": "GIS Coordinator",
+      "company": "San Juan County"
+    },
+    {
+      "highlights": [
+        "Designed and maintained enterprise geodatabases running on Microsoft SQL Server and PostgreSQL/PostGIS to link geospatial data with a document management system.",
+        "Conducted spatial analyses to determine where and how proposed developments affect protected species habitats and natural communities.",
+        "Designed annual reports showing habitat conservation progress using spatial SQL queries.",
+        "Used Django framework to develop a data entry web application for consultants."
+      ],
+      "summary": "The Coachella Valley Association of Governments (CVAG) is a municipal planning agency which administers the Coachella Valley Multiple Species Habitat Conservation Plan (CVMSHCP). The CVMSHCP is a 1.1 million acre plan to protect species habitats and ecologies.",
+      "endDate": "2013-05-27",
+      "startDate": "2005-08-27",
+      "website": "https://cvag.org",
+      "position": "GIS Analyst",
+      "company": "Coachella Valley Association of Governments"
+    }
+  ]
 }

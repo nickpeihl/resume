@@ -4,8 +4,8 @@
   "description": "Resume for Nick Peihl",
   "main": "index.js",
   "scripts": {
-    "test": "npx -p resume-cli resume test",
-    "start": "npx -p resume-cli resume serve --port 9966"
+    "test": "resumed validate",
+    "start": "resumed render -o nickpeihl.html"
   },
   "engines": {
     "node": ">=8.2.0"
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/nickpeihl/resume#readme",
   "dependencies": {
-    "resume-cli": "^0.4.19"
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "resumed": "^1.0.3"
   }
 }
